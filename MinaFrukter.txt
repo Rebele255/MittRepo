@@ -5,4 +5,5 @@ Vindruvor
 Vattenmelon
 Papaya
 Apelsin
+Kiwi
 Nektarin
